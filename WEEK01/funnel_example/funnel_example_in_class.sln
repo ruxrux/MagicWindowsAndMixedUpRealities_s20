@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funnel_example_in_class", "Assembly-CSharp.csproj", "{BD92C452-CAD0-1695-2F71-AAFF144922FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funnel_example_in_class", "Assembly-CSharp-Editor.csproj", "{03E7B522-B3C5-84AD-DD3F-A4E52AF5D338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD92C452-CAD0-1695-2F71-AAFF144922FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD92C452-CAD0-1695-2F71-AAFF144922FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD92C452-CAD0-1695-2F71-AAFF144922FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD92C452-CAD0-1695-2F71-AAFF144922FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E7B522-B3C5-84AD-DD3F-A4E52AF5D338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E7B522-B3C5-84AD-DD3F-A4E52AF5D338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E7B522-B3C5-84AD-DD3F-A4E52AF5D338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E7B522-B3C5-84AD-DD3F-A4E52AF5D338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
