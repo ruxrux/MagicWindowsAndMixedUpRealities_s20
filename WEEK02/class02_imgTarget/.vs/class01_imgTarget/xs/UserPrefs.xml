@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D5A33373-BF0F-F9F4-C85F-61891E680866}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.ptc.vuforia.engine@8.5.9/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+    <Files>
+      <File FileName="Assets/scripts/LookAtMe.cs" Line="15" Column="1" />
+      <File FileName="Assets/scripts/lookAtYou.cs" />
+      <File FileName="Library/PackageCache/com.ptc.vuforia.engine@8.5.9/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="88" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8cb93ae-c639-4957-a6dc-afa28edd8097" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
